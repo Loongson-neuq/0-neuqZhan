@@ -1,0 +1,1 @@
+/tmp/tmpdCR6YT.tmp: line 1: ./main: No such file or directory
